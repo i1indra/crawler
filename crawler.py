@@ -47,7 +47,7 @@ def parser(owner):
                 break
 
 
-parser("batman")
+# parser("batman")
 
 
 def data_share(username):
