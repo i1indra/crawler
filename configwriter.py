@@ -5,9 +5,9 @@ def create_config():
     config = ConfigParser()
     config['database'] = {
         "database": "sites",
-        "user": "crossfire",
+        "user": "myusername",
         "host": "127.0.0.1",
-        "password": "123qweQW!",
+        "password": "mypassword!",
         "auth_plugin": 'mysql_native_password'
     }
 
